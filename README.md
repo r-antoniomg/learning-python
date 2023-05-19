@@ -1,3 +1,3 @@
 # Learning Python
-This repository contains Python programs taken from books and tutorials, that I have used for learning purposes.
+This repository contains Python code from books and tutorials that I have used for learning purposes.
 ## Contents
